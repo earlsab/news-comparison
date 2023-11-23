@@ -11,7 +11,8 @@ In partial fulfillment of the requirements for the subject on
 COMPSCI 39(2018)-A (LECLAB) FUNDAMENTALS OF DATA ANALYSIS AND ENTERPRISE DATA MANAGEMENT
 
 This repository attempts to use available data/tools on
-- Newscatcher - newscatcherapi.com
-- Amazon Comprehend - aws.amazon.com/comprehend
-- Stanford Cable News Analyser - tvnews.stanford.edu
-- Mediabias Fact Check - mediabiasfactcheck.org
+- Newscatcher - https://www.newscatcherapi.com/
+- Amazon Comprehend - https://aws.amazon.com/comprehend/
+- Stanford Cable News Analyser - https://tvnews.stanford.edu/
+- Mediabias Fact Check - https://mediabiasfactcheck.com/
+
