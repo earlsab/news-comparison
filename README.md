@@ -10,9 +10,9 @@ This is in partial
 In partial fulfillment of the requirements for the subject on
 COMPSCI 39(2018)-A (LECLAB) FUNDAMENTALS OF DATA ANALYSIS AND ENTERPRISE DATA MANAGEMENT
 
-This repository attempts to use available data/tools on
+This repository attempts to use data/tools on
 - Newscatcher - https://www.newscatcherapi.com/
-- Amazon Comprehend - https://aws.amazon.com/comprehend/
+- distilbert-base-uncased-emotion - https://huggingface.co/bhadresh-savani/distilbert-base-uncased-emotion
 - Stanford Cable News Analyser - https://tvnews.stanford.edu/
 - Mediabias Fact Check - https://mediabiasfactcheck.com/
 
