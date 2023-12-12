@@ -18,4 +18,4 @@ This repository attempts to use data/tools on
 - Stanford Cable News Analyser - https://tvnews.stanford.edu/
 - Mediabias Fact Check - https://mediabiasfactcheck.com/
 
-Findings will be uploaded early 2024.
+Findings will be made available early 2024.
