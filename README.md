@@ -1,4 +1,6 @@
-
+cloydcabad@su.edu.ph\
+jeagjalandoni@su.edu.ph\
+patricklpatrimonio@su.edu.ph\
 earlanqsabillano@su.edu.ph
 
 # news-comparison
@@ -16,3 +18,4 @@ This repository attempts to use data/tools on
 - Stanford Cable News Analyser - https://tvnews.stanford.edu/
 - Mediabias Fact Check - https://mediabiasfactcheck.com/
 
+Findings will be uploaded early 2024.
